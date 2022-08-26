@@ -1,3 +1,11 @@
 {
-    "title": "《佛说美貌与丑陋》罗江涛·著"
+    "title": "《佛说美貌与丑陋》罗江涛·著",
+    "plugins": [
+        "baidu-tongji"
+    ],
+    "pluginsConfig": {
+        "baidu-tongji": {
+            "siteid": "219ec6a9cea5fe94cf70f9dfb17803df"
+        }
+    }
 }
